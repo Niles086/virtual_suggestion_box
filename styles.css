@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#suggestion-form {
+    margin-bottom: 20px;
+}
+
+#suggestions-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.suggestion {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px 0;
+}
